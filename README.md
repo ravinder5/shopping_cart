@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ravinder5/shopping_cart.svg?branch=master)](https://travis-ci.com/ravinder5/shopping_cart)
+
 # shopping_cart
 
 A simple REST application to create, update, delete and get product details
